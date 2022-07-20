@@ -619,7 +619,7 @@ header .navbar {
 }
 
 .best-features ul.featured-list li a:hover {
-	color: #f33f3f;
+	color: #205bb2 ;
 }
 
 .best-features ul.featured-list li a:hover::before {
@@ -1374,8 +1374,10 @@ a{
 	border: none;
 }
 .left-column-day{
-	width: 80px;
+	width: 100px;
 	display: inline-block;
+	text-align: right;
+	padding-right: 15px;
 }
 b{
 	color: #205bb2 !important;
