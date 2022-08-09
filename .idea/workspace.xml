@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8eb7af8-60ad-485c-b610-a0451b4b996d" name="Default Changelist" comment="" />
+    <list default="true" id="fc19b2ff-716e-4a5b-bc52-b3b99743ea32" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="239587844">
+    <session id="-2101012402">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.0" value="1" />
@@ -21,126 +21,41 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="6" />
-          <entry key="html" value="5" />
+          <entry key="html" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="6" />
-          <entry key="HTML" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="css" value="20" />
-          <entry key="html" value="82" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="CSS" value="20" />
-          <entry key="HTML" value="82" />
+          <entry key="HTML" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6222339">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="185">
-                  <caret line="290" column="9" lean-forward="true" selection-start-line="259" selection-end-line="290" selection-end-column="9" />
-                  <folding>
-                    <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/gallery.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="880">
-                  <caret line="195" column="45" lean-forward="true" selection-start-line="195" selection-start-column="45" selection-end-line="195" selection-end-column="45" />
-                  <folding>
-                    <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/contact.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="608">
-                  <caret line="196" column="18" lean-forward="true" selection-start-line="196" selection-start-column="18" selection-end-line="196" selection-end-column="18" />
-                  <folding>
-                    <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/about.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="762">
-                  <caret line="215" column="13" selection-start-line="215" selection-start-column="13" selection-end-line="215" selection-end-column="13" />
-                  <folding>
-                    <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/services.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="762">
-                  <caret line="573" column="17" selection-start-line="573" selection-start-column="17" selection-end-line="573" selection-end-column="17" />
-                  <folding>
-                    <element signature="n#footer#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/assets/css/templatemo-sixteen.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="377">
-                  <caret line="1379" column="23" selection-start-line="1379" selection-start-column="23" selection-end-line="1379" selection-end-column="23" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="222" column="20" lean-forward="true" selection-start-line="222" selection-start-column="20" selection-end-line="222" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Mon</find>
-      <find>footer</find>
+      <find>10:00 PM - 5:00 PM</find>
     </findStrings>
+    <replaceStrings>
+      <replace>10:00 AM - 5:00 PM</replace>
+    </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/assets/css/templatemo-sixteen.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/services.html" />
-        <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/gallery.html" />
       </list>
     </option>
   </component>
@@ -151,9 +66,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="1222" />
-    <option name="height" value="1080" />
+    <option name="x" value="-4" />
+    <option name="y" value="2" />
+    <option name="width" value="1180" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -165,19 +81,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="97 - CRUSH NAILS &amp; SPA - LLDW02 - 20220720" type="b2602c69:ProjectViewProjectNode" />
-              <item name="97 - CRUSH NAILS &amp; SPA - LLDW02 - 20220720" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="97 - CRUSH NAILS &amp; SPA - LLDW02 - 20220720" type="b2602c69:ProjectViewProjectNode" />
-              <item name="97 - CRUSH NAILS &amp; SPA - LLDW02 - 20220720" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="97 - CRUSH NAILS &amp; SPA - LLDW02 - 20220720" type="b2602c69:ProjectViewProjectNode" />
-              <item name="97 - CRUSH NAILS &amp; SPA - LLDW02 - 20220720" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="97 - CRUSH NAILS &amp; SPA - LLDW02 - 20220809" type="b2602c69:ProjectViewProjectNode" />
+              <item name="97 - CRUSH NAILS &amp; SPA - LLDW02 - 20220809" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -208,24 +113,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c8eb7af8-60ad-485c-b610-a0451b4b996d" name="Default Changelist" comment="" />
-      <created>1658287800348</created>
+      <changelist id="fc19b2ff-716e-4a5b-bc52-b3b99743ea32" name="Default Changelist" comment="" />
+      <created>1660027984957</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1658287800348</updated>
-      <workItem from="1658287801744" duration="2417000" />
+      <updated>1660027984957</updated>
+      <workItem from="1660027986210" duration="34000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2417000" />
+    <option name="totallyTimeSpent" value="34000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12961012" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
@@ -250,72 +155,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/framework.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1170">
-          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2314" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/templatemo-sixteen.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="1379" column="23" selection-start-line="1379" selection-start-column="23" selection-end-line="1379" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="290" column="9" lean-forward="true" selection-start-line="259" selection-end-line="290" selection-end-column="9" />
-          <folding>
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="762">
-          <caret line="573" column="17" selection-start-line="573" selection-start-column="17" selection-end-line="573" selection-end-column="17" />
-          <folding>
-            <element signature="n#footer#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="762">
-          <caret line="215" column="13" selection-start-line="215" selection-start-column="13" selection-end-line="215" selection-end-column="13" />
-          <folding>
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="196" column="18" lean-forward="true" selection-start-line="196" selection-start-column="18" selection-end-line="196" selection-end-column="18" />
-          <folding>
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="195" column="45" lean-forward="true" selection-start-line="195" selection-start-column="45" selection-end-line="195" selection-end-column="45" />
-          <folding>
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="322">
+          <caret line="222" column="20" lean-forward="true" selection-start-line="222" selection-start-column="20" selection-end-line="222" selection-end-column="20" />
         </state>
       </provider>
     </entry>
